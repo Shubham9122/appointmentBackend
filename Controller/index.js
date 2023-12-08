@@ -1,0 +1,5 @@
+export {default as Login} from './Auth/login.js'
+export {default as RegisterDoctor} from './Auth/registerDoctor.js'
+export {default as AddPatient} from './AddPatient/patient.js'
+export {default as EditPatient} from './AddPatient/editPatient.js'
+export {default as DeletePatient} from './AddPatient/deletePatient.js'
